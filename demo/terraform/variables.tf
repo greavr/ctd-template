@@ -22,3 +22,11 @@ variable "project_id" {
 # variable "org_id" {
 #  description = "Organization ID in which project created"
 # }
+# variable "data_location" {
+#  type        = string
+#  description = "Location of source data file in central bucket"
+# }
+# variable "secret_stored_project" {
+#   type        = string
+#   description = "Project where secret is accessing from"
+# }
